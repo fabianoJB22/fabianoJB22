@@ -2,7 +2,7 @@
 - 👀 I’m interested in policy
 - 🌱 I’m currently learning policy
 - 💞️ I’m looking to collaborate on policy books
-- 📫 How to reach me political
+- 📫 How to reach me in policy
 
 <!---
 fabianoJB22/fabianoJB22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
